@@ -1,4 +1,6 @@
 public class Test1 {
-    int i;
-    int j;
+    int a;
+    int b;
+    int c;
+    int d;
 }
