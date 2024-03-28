@@ -4,4 +4,6 @@ public class Test6 {
     int c;
     int d;
     int x;
+    int y;
+    int z;
 }
